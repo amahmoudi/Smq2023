@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T10:41:58.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yLbgCeu3X2ZKiRYgvbdO" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T13:51:55.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JMxk9xI7SDsOXlnJ-7vB" version="21.0.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1900" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GWvJhFTaPys54hKGP2xo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-47" target="dKdSaXE48SgPbhcamS2K-49" edge="1">
+        <mxCell id="GWvJhFTaPys54hKGP2xo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dKdSaXE48SgPbhcamS2K-47" target="dKdSaXE48SgPbhcamS2K-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="Module Security" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
@@ -90,7 +90,7 @@
             <mxPoint x="650" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GWvJhFTaPys54hKGP2xo-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-49" target="dKdSaXE48SgPbhcamS2K-51" edge="1">
+        <mxCell id="GWvJhFTaPys54hKGP2xo-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;entryX=0.058;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QrLpYAZonQFjlP1X_FyF-5" target="dKdSaXE48SgPbhcamS2K-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k8HdCWha7RqeSMXcjrtG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" parent="1" source="dKdSaXE48SgPbhcamS2K-49" target="k8HdCWha7RqeSMXcjrtG-7" edge="1">
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="Module Import Process" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="480" y="590" width="185" height="80" as="geometry" />
+          <mxGeometry x="465" y="590" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-50" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dKdSaXE48SgPbhcamS2K-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -252,6 +252,28 @@
         </mxCell>
         <mxCell id="k8HdCWha7RqeSMXcjrtG-7" value="Shared Volume/ Archive" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" parent="1" vertex="1">
           <mxGeometry x="390" y="740" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="QrLpYAZonQFjlP1X_FyF-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.491;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QrLpYAZonQFjlP1X_FyF-5" target="QrLpYAZonQFjlP1X_FyF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="610" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="703" y="611" />
+              <mxPoint x="703" y="600" />
+              <mxPoint x="778" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QrLpYAZonQFjlP1X_FyF-3" value="Externa API Transformer&#xa; TO TXT SMQ" style="shape=component;align=center;fillColor=#f8cecc;fontSize=14;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="665" y="510" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrLpYAZonQFjlP1X_FyF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-49" target="QrLpYAZonQFjlP1X_FyF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="630" as="sourcePoint" />
+            <mxPoint x="780" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QrLpYAZonQFjlP1X_FyF-5" value="TXT SQM" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="665" y="608" width="73.33" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
