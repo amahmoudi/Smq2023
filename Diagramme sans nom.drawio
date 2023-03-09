@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T10:12:03.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jCPGD97bNOg_OeGvLuS4" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T10:14:18.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ruuv4gI2OesOSfMJj5i2" version="21.0.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2250" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GWvJhFTaPys54hKGP2xo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-47" target="dKdSaXE48SgPbhcamS2K-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="Module Security" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="260" y="530" width="185" height="80" as="geometry" />
         </mxCell>
@@ -79,16 +82,22 @@
             <mxPoint x="652" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GWvJhFTaPys54hKGP2xo-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-49" target="dKdSaXE48SgPbhcamS2K-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="Module Import Process" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="532" y="590" width="185" height="80" as="geometry" />
+          <mxGeometry x="480" y="590" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-50" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;exitX=0.842;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dKdSaXE48SgPbhcamS2K-51" target="GWvJhFTaPys54hKGP2xo-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="897" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GWvJhFTaPys54hKGP2xo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-51" target="dKdSaXE48SgPbhcamS2K-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-51" value="Module extraction data" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="760" y="650" width="196.5" height="80" as="geometry" />
+          <mxGeometry x="780" y="620" width="196.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-52" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.677;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dKdSaXE48SgPbhcamS2K-53" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -179,6 +188,9 @@
             <mxPoint x="780" y="205" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GWvJhFTaPys54hKGP2xo-26" value="Module Rules Referentials" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="382" y="720" width="213" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
