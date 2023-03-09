@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T10:20:07.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wTtGf7unwx-CUV18yvu3" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T10:21:16.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cfXSL4TMOF_6TrtQhxHf" version="21.0.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2250" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,8 +169,10 @@
         <mxCell id="GWvJhFTaPys54hKGP2xo-16" value="Rule Extraction" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.service;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="230" width="85" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="GWvJhFTaPys54hKGP2xo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GWvJhFTaPys54hKGP2xo-17" target="GWvJhFTaPys54hKGP2xo-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GWvJhFTaPys54hKGP2xo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GWvJhFTaPys54hKGP2xo-17" target="GWvJhFTaPys54hKGP2xo-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GWvJhFTaPys54hKGP2xo-17" value="Rule Analyse" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.service;" vertex="1" parent="1">
           <mxGeometry x="1130" y="230" width="80" height="35" as="geometry" />
@@ -222,6 +224,9 @@
             <mxPoint x="850" y="800" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GWvJhFTaPys54hKGP2xo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GWvJhFTaPys54hKGP2xo-17" target="GWvJhFTaPys54hKGP2xo-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
